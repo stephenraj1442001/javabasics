@@ -1,6 +1,6 @@
 package com.basic;
 
-public class Animal implements Travel{
+public abstract class Animal implements Travel{
 	
 }
 class Dog extends Animal{
